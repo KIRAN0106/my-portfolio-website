@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html lang="en">
 
@@ -238,7 +238,7 @@
 
 							<font face="Verdana" size="4"
 
-								color="white">
+								color="red">
 
 								Thanks for your interest, here
 
